@@ -13,8 +13,9 @@
 ## 🌟 O que eu faço
 
 - Desenvolvimento de sites e aplicações web com **HTML5, CSS3 e JavaScript**  
-- Criação de interfaces dinâmicas com animações e interações (ex.: menus mobile, scroll suave)  
-- Projetos responsivos e otimizados para diferentes dispositivos  
+- Criação de interfaces dinâmicas com animações e interações (ex.: menus mobile, scroll suave, carrosséis interativos)  
+- Projetos responsivos e otimizados para diferentes dispositivos
+- Designers gráficos (ex.: flyers para Instagram, cartão de visitas, banners, mockups)  
 
 ---
 
@@ -44,6 +45,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" />&nbsp;
 </p>
 
 ---
