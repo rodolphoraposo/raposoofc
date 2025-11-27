@@ -88,7 +88,7 @@
 ## 📬 Conecte-se comigo  
 
 <p>
-  <a href="https://www.linkedin.com/in/raposoofc" target="_blank">
+  <a href="https://www.linkedin.com/in/rodolphoraposo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo"/>
   </a>&nbsp;
   
