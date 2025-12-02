@@ -52,7 +52,7 @@
 
 ## 🌐 Projetos em Destaque
 
-- **[Portfólio Pessoal](https://portfolioraposoofc.vercel.app/)**  
+- **[Portfólio Pessoal](https://rodolphoraposo.vercel.app/)**  
   Site responsivo construído com HTML5, CSS3 e JavaScript, com foco em design moderno e interações fluidas.  
   **Tecnologias:** HTML5, CSS3, JavaScript  
   **Recursos:** UI/UX Designer & Responsividade, animações de scroll, menu mobile otimizado.  
