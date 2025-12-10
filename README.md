@@ -77,9 +77,9 @@
 
 <div align="center" style="display: flex; gap: 40px;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raposoofc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolphoraposo&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposoofc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphoraposo&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 
 </div>
 
