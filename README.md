@@ -58,29 +58,28 @@
   **Recursos:** UI/UX Designer & Responsividade, animações de scroll, menu mobile otimizado.  
 
 - **[Forno à Lenha Pizzaria - Projeto Pessoal](https://fornoalenha.vercel.app)**  
-  Cartão Digital Interativo. Usário conseguirá realizar o pedido de forma ágil, prática e cômoda, enviar diretamente para o Whatsapp do estabelecimento, otimizando o atendimento.  
-  **Tecnologias:** HTML5, CSS3, JavaScript.
+  Cartão Digital Interativo. Usuário conseguirá realizar o pedido de forma ágil, prática e cômoda, enviar diretamente para o Whatsapp do estabelecimento, otimizando o atendimento.  
+  **Tecnologias:** HTML5, CSS3, JavaScript  
   **Recursos:** Responsividade, interações entre telas, hiperlinks com canais de comunicação e redes sociais do estabelecimento.  
 
 - **[Enfermeiro Onco-expert](https://www.portacthenf.com)**  
   Plataforma voltada para apoiar profissionais da saúde na oncologia, visando a venda do curso Enfermeiro Onco-Expert.  
-  **Tecnologias:** HTML5, CSS3, JavaScript, Figma, Kanban.
+  **Tecnologias:** HTML5, CSS3, JavaScript, Figma, Kanban  
   **Recursos:** UI/UX Designer & Responsividade, Interface intuitiva, interações entre seções e telas, carrossel dinâmico.
 
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodolphoraposo&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodolphoraposo&theme=dark&hide_border=verdadeiro&border_radius=5&locale=pt_BR&short_numbers=verdadeiro&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center" style="display: flex; gap: 40px;">
-
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolphoraposo&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphoraposo&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-
 </div>
 
 ---
