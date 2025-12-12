@@ -62,7 +62,7 @@
   **Tecnologias:** HTML5, CSS3, JavaScript.
   **Recursos:** Responsividade, interações entre telas, hiperlinks com canais de comunicação e redes sociais do estabelecimento.  
 
-- **[Enfermeiro Onco-expert](https://github.com/raposoofc/projeto-enfermeiro-onco-expert)**  
+- **[Enfermeiro Onco-expert](https://www.portacthenf.com)**  
   Plataforma voltada para apoiar profissionais da saúde na oncologia, visando a venda do curso Enfermeiro Onco-Expert.  
   **Tecnologias:** HTML5, CSS3, JavaScript, Figma, Kanban.
   **Recursos:** UI/UX Designer & Responsividade, Interface intuitiva, interações entre seções e telas, carrossel dinâmico.
@@ -70,7 +70,7 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raposoofc&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodolphoraposo&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
 ---
 
 ## 📊 Estatísticas do GitHub
