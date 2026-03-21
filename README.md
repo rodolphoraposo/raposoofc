@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=OpenSans&weight=500&pause=500&color=8B2E3C&size=30&center=true&vCenter=true&width=1200&lines=Olá,+sou+o+Rodolpho+Rapôso,+mas+pode+me+chamar+de+Rapôso,+por+favor!+👋)](https://git.io/typing-svg)
 <br><br>
 
-💻 Desenvolvedor Front-end Jr. em formação (3° Semestre no curso Técnico em Informática para Internet – SENAI AL).  
+💻 Graduando Tecnologia em Análise e Desenvolvimento de Sistemas pela UniFatecie.  
 🚀 Apaixonado por criar soluções criativas e funcionais para web.  
 📚 Atualmente estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferramentas tais quais listadas abaixo.  
 
